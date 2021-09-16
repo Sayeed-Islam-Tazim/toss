@@ -9,7 +9,7 @@ void main() {
       backgroundColor: Colors.black12,
       appBar: AppBar(
         title: Text(
-          "Toss through your coin",
+          "Toss through your coin with our app",
           style: TextStyle(color: Colors.white),
         ),
         backgroundColor: Colors.black,
